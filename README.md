@@ -1,6 +1,6 @@
 # PITrabalho1
 
-Trabalho #1 de Interpolação em Processamento de Imagens
+Trabalho de Morfologia da disciplina de Processamento de Imagens
 
 ## Built With
 

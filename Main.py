@@ -14,7 +14,7 @@ if __name__ == '__main__':
 		op = input(menuStr)
 		op = int(op)
 
-		morfologia = Morfologia("img/elefante-preto.png")
+		morfologia = Morfologia("img/elefante.png")
 		morfologia.carregarImagem()
 
 		if op == 0:
