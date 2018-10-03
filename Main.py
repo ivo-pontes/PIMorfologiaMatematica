@@ -20,11 +20,11 @@ if __name__ == '__main__':
 		if op == 0:
 			pass
 		elif op == 1:
-			abertura = morfologia.abertura()
+			morfologia.abertura()
 		elif op == 2:
-			fechamento = morfologia.fechamento()
+			morfologia.fechamento()
 		elif op == 3:
-			x = morfologia.extrairContorno()
+			morfologia.extrairContorno()
 
 
 	print("Fim execução!!")
